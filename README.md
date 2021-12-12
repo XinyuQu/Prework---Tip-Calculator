@@ -4,7 +4,7 @@
 
 Submitted by: **Xinyu**
 
-Time spent: **10 min** hours spent in total
+Time spent: **30 min** hours spent in total
 
 ## User Stories
 
